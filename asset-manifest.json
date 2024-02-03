@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/static/js/main.1a8036eb.js",
-    "static/media/product-cover-125 sec-.png": "/static/media/product-cover-125 sec-.677fe1e9dfe5dbba68de.png",
-    "static/media/product-cover-124 sec-.png": "/static/media/product-cover-124 sec-.ca57acd9bab6ee17b9be.png",
-    "static/media/testimonial-user-cover-103.png": "/static/media/testimonial-user-cover-103.494d801ebb548d236e7c.png",
-    "static/media/testimonial-user-cover-104.png": "/static/media/testimonial-user-cover-104.b916480b6a95ab0aa0da.png",
-    "index.html": "/index.html",
-    "main.1a8036eb.js.map": "/static/js/main.1a8036eb.js.map"
+    "main.js": "/School-website/static/js/main.180b9b96.js",
+    "static/media/product-cover-125 sec-.png": "/School-website/static/media/product-cover-125 sec-.677fe1e9dfe5dbba68de.png",
+    "static/media/product-cover-124 sec-.png": "/School-website/static/media/product-cover-124 sec-.ca57acd9bab6ee17b9be.png",
+    "static/media/testimonial-user-cover-103.png": "/School-website/static/media/testimonial-user-cover-103.494d801ebb548d236e7c.png",
+    "static/media/testimonial-user-cover-104.png": "/School-website/static/media/testimonial-user-cover-104.b916480b6a95ab0aa0da.png",
+    "index.html": "/School-website/index.html",
+    "main.180b9b96.js.map": "/School-website/static/js/main.180b9b96.js.map"
   },
   "entrypoints": [
-    "static/js/main.1a8036eb.js"
+    "static/js/main.180b9b96.js"
   ]
 }
